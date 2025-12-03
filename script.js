@@ -1,5 +1,5 @@
 var name="Ali"
-name="haider"
+name="Haider"
 console.log(name);
 let age=23;
 age=24;
